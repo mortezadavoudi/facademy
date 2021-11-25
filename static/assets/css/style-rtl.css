@@ -94,3 +94,9 @@ input{
 .main-menu .main-menu-content li {
     font-family: 'IRANSans' !important;
 }
+.table td, .table th {
+    font-family: IRANSans !important;
+}
+tr th {
+    letter-spacing: 0 !important;
+}

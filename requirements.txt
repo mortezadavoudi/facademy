@@ -1,2 +1,5 @@
 Django~=3.2.9
 mysqlclient
+pillow
+slugify
+django_jalali
